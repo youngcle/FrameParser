@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nsls">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/nsls.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

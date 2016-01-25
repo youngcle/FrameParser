@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jhdf5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/hdf-java-2.7/linux64/hdf-java/lib/jhdf5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

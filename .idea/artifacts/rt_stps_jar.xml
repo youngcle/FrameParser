@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rt-stps:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rt_stps_jar</output-path>
+    <root id="archive" name="rt-stps.jar">
+      <element id="module-output" name="rt-stps" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../lib/hdf-java-2.7/linux64/hdf-java/lib/jhdf5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
